@@ -26,7 +26,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Press 'w' to open in browser, 'a' to open in android devices. App runs on [http://<local-network-ip>:19006](http://local-network-ip:19006).
+Press 'w' to open in browser, 'a' to open in android devices. App runs on [http://local-network-ip:19006](http://local-network-ip:19006).
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
