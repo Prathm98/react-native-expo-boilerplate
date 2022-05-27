@@ -26,12 +26,12 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Press 'w' to open in browser, 'a' to open in android devices. App runs on [http://local-network-ip:19006](http://local-network-ip:19006).
+Press 'w' to open in browser, 'a' to open in android devices. App runs on **http://local-network-ip:19006**.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators.
 
 When you're ready and want to connect with expo then use it with [expo-cli](https://docs.expo.io/get-started/installation).
 
